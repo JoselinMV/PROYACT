@@ -1,0 +1,6 @@
+<?php
+$nombre = "Muñoz Vazquez Lizbeth Joselin";
+$matricula = "213271018";
+$fecha = date('Y') . "-" . date('m') . "-" . date('d');
+$hora = date('H') . ":" . date('i') . ":" . date('s');
+?>
